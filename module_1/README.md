@@ -32,10 +32,10 @@ Join [Leland AI Builder Foundations](https://courses.joinleland.com/ai-builder/f
 
 Explore the different output types AI can create — from documents and spreadsheets to visualizations and images.
 
-- [ ] Create documents, spreadsheets, and presentations with AI
-- [ ] Create interactive visualizations and artifacts with AI
-- [ ] Create images with AI
-- [ ] Explore more types of AI output
+- [X] Create documents, spreadsheets, and presentations with AI
+- [X} Create interactive visualizations and artifacts with AI
+- [X] Create images with AI
+- [X] Explore more types of AI output
 
 ---
 
@@ -43,9 +43,9 @@ Explore the different output types AI can create — from documents and spreadsh
 
 Understand how AI works and build the muscle to use it as more than a search engine.
 
-- [ ] Write a great research prompt
-- [ ] Run a task through AI's different modes
-- [ ] Map where AI can help you in your work and life
+- [X] Write a great research prompt
+- [X] Run a task through AI's different modes
+- [X] Map where AI can help you in your work and life
 
 ---
 
@@ -53,9 +53,9 @@ Understand how AI works and build the muscle to use it as more than a search eng
 
 Learn to give AI the right context and the right tool for each job, then make something real with it.
 
-- [ ] Start using voice input
-- [ ] Give AI context through document uploads
-- [ ] Work with image and data uploads
+- [X] Start using voice input
+- [X] Give AI context through document uploads
+- [X] Work with image and data uploads
 
 ---
 
@@ -63,10 +63,10 @@ Learn to give AI the right context and the right tool for each job, then make so
 
 Plan your days, sort your priorities out loud, and hand one recurring personal task to AI.
 
-- [ ] Connect your calendar
-- [ ] Plan your day with AI
-- [ ] Sort your to-do list by talking it through
-- [ ] Share what you built and learn from others
+- [X] Connect your calendar
+- [X] Plan your day with AI
+- [X] Sort your to-do list by talking it through
+- [X] Share what you built and learn from others
 
 ---
 
