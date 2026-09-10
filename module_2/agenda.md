@@ -19,7 +19,7 @@
 - 💻 **If time - Hands On Activity**
 - ✅ **Wrap Up & Questions** (last 10 mins)
 
-## 📋 Class Agenda - Saturday, September 5nd, 2026 
+## 📋 Class Agenda - Saturday, September 5th, 2026 
 
 - 👋 **Welcome**
 - **[Spreadsheet Quiz](https://claude.ai/public/artifacts/8a89bd93-19a9-4eb8-b9a7-b650da2c6228)**
