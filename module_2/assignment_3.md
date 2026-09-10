@@ -100,5 +100,5 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Last Step: Ship it!
 
-- [ ] Drop a screenshot of the dashboard, along with a URL link and 3 bullet points of insights into this discussion thread: 
+- [ ] Drop a screenshot of the dashboard, along with a URL link and 3 bullet points of insights into this discussion thread: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/17
 - [ ] Do a little happy dance - you’re crushing it!
