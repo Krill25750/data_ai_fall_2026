@@ -52,6 +52,7 @@
   * 🔤 ORDER BY birthdate ascending -> January -> December 
 - 🧹 **Housekeeping**
   * Happy Birthday! Elva (9/6), Laura (9/7), & Shivani (9/8)! 
+    * [How common is your birthday?](https://www.reddit.com/r/dataisbeautiful/comments/13ro2fw/oc_how_common_in_your_birthday/) 
   * Module 1 completion rate:
   * Module 2 assignment 1 completion rate:
   * Update your picture in Slack & GitHub :D
